@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantic.Application", "Mantic.Application\Mantic.Application.csproj", "{84287E00-CBE9-44FE-BA0D-C532918B588A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantic.Domain", "Mantic.Domain\Mantic.Domain.csproj", "{B070E694-8C59-4633-A37B-94F561C0E115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantic.Infrastructure", "Mantic.Infrastructure\Mantic.Infrastructure.csproj", "{0E62DD50-4F3D-46A6-A8E7-FBD2DE8F2568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantic.API", "Mantic.API\Mantic.API.csproj", "{0F801DB4-259C-441A-93D5-229D782B2F71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84287E00-CBE9-44FE-BA0D-C532918B588A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84287E00-CBE9-44FE-BA0D-C532918B588A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84287E00-CBE9-44FE-BA0D-C532918B588A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84287E00-CBE9-44FE-BA0D-C532918B588A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B070E694-8C59-4633-A37B-94F561C0E115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B070E694-8C59-4633-A37B-94F561C0E115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B070E694-8C59-4633-A37B-94F561C0E115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B070E694-8C59-4633-A37B-94F561C0E115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E62DD50-4F3D-46A6-A8E7-FBD2DE8F2568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E62DD50-4F3D-46A6-A8E7-FBD2DE8F2568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E62DD50-4F3D-46A6-A8E7-FBD2DE8F2568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E62DD50-4F3D-46A6-A8E7-FBD2DE8F2568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F801DB4-259C-441A-93D5-229D782B2F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F801DB4-259C-441A-93D5-229D782B2F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F801DB4-259C-441A-93D5-229D782B2F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F801DB4-259C-441A-93D5-229D782B2F71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
