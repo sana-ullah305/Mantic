@@ -1,4 +1,3 @@
-```markdown
 # Mantic API
 
 Mantic API is a modern, RESTful web API designed for managing user accounts and authentication using basic authentication and authorization. It provides secure endpoints for handling account-related operations like registration, login, and token management.
