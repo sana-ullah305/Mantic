@@ -1,11 +1,10 @@
-﻿using Mantic.Application.DTOs;
-using Mantic.Application.DTOs.Request.Account;
+﻿using Mantic.Application.DTOs.Request.Account;
 using Mantic.Application.DTOs.Response;
 using Mantic.Application.DTOs.Response.Account;
 
 namespace Mantic.Application.Contracts
 {
-    internal interface IAccount
+    public interface IAccount
     {
         Task CreateAdmin();
         Task<GeneralResponse> CreateAccountAsync(CreateAccountDTO model);
