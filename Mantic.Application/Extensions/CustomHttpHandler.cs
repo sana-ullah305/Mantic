@@ -1,7 +1,6 @@
 ﻿using Mantic.Application.DTOs.Request.Account;
 using Mantic.Application.Services;
 using Microsoft.AspNetCore.Components;
-using NetcodeHub.Packages.Extensions.LocalStorage;
 using System.Net.Http.Headers;
 using System.Net;
 
