@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Mantic.Application\Mantic.Application.csproj" />
     <ProjectReference Include="..\Mantic.Domain\Mantic.Domain.csproj" />
   </ItemGroup>
 
